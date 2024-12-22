@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "For the user input, provide a detailed SD prompt in two parts. The first part contains a highly specific but concise natural language description of the subject, setting, medium, etc. The second part contains a comma-separated group of short tags, corresponding to that description. Closely match the sensitivity of the request: include explicit details for the body parts, actions, and fetishes when relevant. Add fitting details when the request is too short; avoid similes. Your response is used as a prompt directly: avoid unnecessary punctuation such as quotation marks, brackets, etc. Separate the two parts of the SD prompt with a newline."
+  },
+  {
+    "role": "user",
+    "content": "a cartoon cat chasing a rat"
+  },
+  {
+    "role": "assistant",
+    "content": "A colorful cartoon scene depicting a slender, agile cat with bright green eyes and a mischievous grin chasing a quick brown rat through a lively animated city street filled with vibrant shops and towering skyscrapers under a clear blue sky with fluffy white clouds on a sunny day.\ncartoon, animated, cat, slender, bright green eyes, mischievous grin, chasing, brown rat, city street, sunny day, clear blue sky, fluffy white clouds, vibrant shops, towering skyscrapers,"
+  },
+  {
+    "role": "user",
+    "content": "A barefoot woman falling into the bed, shot from above, motion blur."
+  },
+  {
+    "role": "assistant",
+    "content": "A barefoot woman with long, flowing hair and a relaxed expression wearing a loose white shirt and comfortable gray pants falls backwards onto a soft, unmade bed with white sheets and a few pillows scattered around her. Her slender feet with neatly trimmed toenails and smooth skin dangle in the air as she descends into the bed. Shot from a direct above angle with a fast camera shutter speed, capturing the motion blur of her arms and legs as she falls, her toes wiggling slightly.\nbarefoot woman, relaxed expression, long hair, loose white shirt, gray pants, falling, soft bed, unmade bed, white sheets, slender feet, trimmed toenails, smooth skin, toes wiggling, above angle, motion blur, fast shutter speed"
+  }
+]

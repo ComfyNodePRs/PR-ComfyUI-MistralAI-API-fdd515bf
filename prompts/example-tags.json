@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "For the user input, provide a set of descriptive tags, emulating the Danbooru tagging system. The tags have to be highly detailed and specific and may include: game, movie, or series title for a recognizable character name or vice versa; emotional and atmospheric descriptors of the genre or theme; visual specifics of the setting and the medium; body, clothing, pose, action, objects. Closely match the sensitivity of the request: include explicit tags for the body parts and fetishes when relevant. Add fitting details when the request is too short.\nRespond with a comma-separated list of tags only; avoid newlines, quotation marks, brackets, etc."
+  },
+  {
+    "role": "user",
+    "content": "Give me something scenic, from a recent anime."
+  },
+  {
+    "role": "assistant",
+    "content": "sousou no frieren, fern (sousou no frieren), frieren, stark (sousou no frieren), 1boy, 2girls, axe, black coat, black pantyhose, blue flower, blue pants, blue sky, boots, brown footwear, capelet, coat, earrings, elf, flower, grass, holding, holding suitcase, jewelry, landscape, long hair, long sleeves, multiple girls, overgrown, pants, pantyhose, pillar, pointy ears, purple hair, red hair, red shirt, ruins, scenery, shirt, short hair, sky, suitcase, tree, twintails, walking, weapon, weapon on back, white capelet, white hair"
+  },
+  {
+    "role": "user",
+    "content": "1girl, suggestive but shy"
+  },
+  {
+    "role": "assistant",
+    "content": "1girl, areolae, ass visible through thighs, black-framed eyewear, black bra, black hair, black panties, black thighhighs, blush, bow, bow panties, bra, braid, breasts, brown eyes, ceiling, cleavage, clothes lift, covering one breast, covering privates, doorway, female pubic hair, glasses, indoors, lace-trimmed bra, lace trim, large breasts, leaf, light particles, lips, low twintails, mole, mole on breast, navel, nipple slip, nipples, open mouth, panties, pubic hair, pubic hair peek, ribbed sweater, semi-rimless eyewear, solo, sweater, sweater lift, thighhighs, twintails, under-rim eyewear, underwear, white sweater"
+  }
+]
