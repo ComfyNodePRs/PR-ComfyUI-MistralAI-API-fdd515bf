@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-mistralai-api"
-description = ""
+description = "Mistral AI API's chat completion endpoint in ComfyUI"
 version = "1.0.0"
 license = {file = "LICENSE"}
 
@@ -9,6 +9,6 @@ Repository = "https://github.com/randomnoner11/ComfyUI-MistralAI-API"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "randomnoner11"
 DisplayName = "ComfyUI-MistralAI-API"
 Icon = ""
